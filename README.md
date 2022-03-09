@@ -1,4 +1,4 @@
-Welcome to my GitHub repository.
+Welcome to my <em>personal</em> GitHub repository.
 
 I've been developing commercial applications for about 25 years.  I'm currently working on React/Jamstack and Laravel Full Stack applications.  I've been developing PHP/LAMP applications for almost 20 years before that.  My systems have processed over 10 million dollars in ecommerce and another half a <em>trillion</em> dollars in estimates and other commerce.   
 
