@@ -1,5 +1,9 @@
-Welcome to my <em>personal</em> GitHub repository.
+Welcome to my <em>personal</em> GitHub repository, where I share some of my most useful packages.
 
-I've been developing commercial applications for almost 30 years now.  I'm currently working on React/Jamstack and Laravel Full Stack applications, which are written in TypeScript and PHP 8.3+.  I've been developing PHP/LAMP applications for almost 20 years.  Before that I developed over half dozen Windows applications in the law enforcement and education.  My systems have processed over 10 million dollars in ecommerce and another half a <em>trillion</em> dollars in estimates and other commerce. Yes, I started back when the Internet was young but enjoy seeing the technological landscape evolve and improve over the years.
+I've built PHP systems which have handled over 10 million dollars in ecommerce, with another half a trillion in estimates and other commerce.  
 
-To learn about some of my projects and career you can visit [My Blog](https://paulbonnette.app) for more information.  
+My experience includes years of TypeScript, React, Jamstack, DB2, RPGLE, IBM administration, Delphi, FoxPro, Access,  and over 20 years of Linux administration.   
+
+My current focus is using the Laravel framework to build front ends for servers such as the IBM iSeries.
+
+Hope these packages are of some use to you.
